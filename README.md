@@ -1,0 +1,3 @@
+The product was intended to be a system that could find the shortest path to collect particular books in a library. This system was expected to be embedded into a website of library. Libraries have numerous books in a number of bookshelves on different floors. It is quite hard and will cost time to collect a number of books. This product can help a library to construct a user-friendly system for borrowers and improve the efficiency of staffs.
+
+The algorithm was only able to calculate the shortest path in some regular graphics. The shape of the shelves and obstacles should be regular. In future development, the algorithm should be improved to calculate shortest path in all different situation.
